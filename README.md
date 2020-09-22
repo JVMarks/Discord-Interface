@@ -3,7 +3,7 @@ UI Clone - Discord
 </h1>
 
 <p align="center">Discord UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="#">here</a>.</p>
+<p align="center">Deployed <a href="https://discord-interface.vercel.app/">here</a>.</p>
 
 <p align="center">
   <a href="https://github.com/JVMarks/Discord-Interface/graphs/contributors">
