@@ -17,7 +17,6 @@ UI Clone - Discord
 <hr>
 
 ## Techs
-
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
